@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador full stack</h3>
 
 <p align="center">
-  <img src="https://github.com/XcarabuzX/XcarabuzX/assets/107592844/39e6075b-30e7-466d-96ba-f766f4943210" alt="Programando" width="500" height="300">
+  <img src="https://github.com/XcarabuzX/XcarabuzX/assets/107592844/7258993d-ed9e-4d25-92a8-6584eb76fdbf" alt="Programando" width="500" height="300">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xcarabuzx&label=Profile%20views&color=0e75b6&style=flat" alt="xcarabuzx" /> </p>
