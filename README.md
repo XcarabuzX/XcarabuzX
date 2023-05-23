@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcarabuzx&label=Profile%20views&color=0e75b6&style=flat" alt="xcarabuzx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xcarabuzx" alt="xcarabuzx" /></a> </p>
-
 - 🔭 Trabajando en proyecto **tic-tac-toe**
 
 - 🌱 Aprendiendo **React.js y node.js**
