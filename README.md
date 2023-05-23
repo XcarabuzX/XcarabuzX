@@ -7,12 +7,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=xcarabuzx&label=Profile%20views&color=0e75b6&style=flat" alt="xcarabuzx" /> </p>
 
-<p align="center">
-  - 🔭 Trabajando en proyecto **tic-tac-toe**
-  - 🌱 Aprendiendo **React.js y node.js**
-  - 📫 Enviame un mail! **fgutierrez161622@gmail.com**
-  - 🎧🥁 Hobbys **Apasionado por la musica**
-</p>
+- 🔭 Trabajando en proyecto **tic-tac-toe**
+- 🌱 Aprendiendo **React.js y node.js**
+- 📫 Enviame un mail! **fgutierrez161622@gmail.com**
+- 🎧🥁 Hobbys **Apasionado por la musica**
  
 <hr>
 
