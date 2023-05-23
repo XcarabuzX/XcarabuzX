@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, soy Felipe Gutiérrez</h1>
 <h3 align="center">Desarrollador full stack</h3>
-![Programar](https://github.com/XcarabuzX/XcarabuzX/blob/main/assets/107592844/fcf7a12b-4142-46f2-8373-01992a901184.gif){:height="300px" width="500px"}
+<img src="https://github.com/XcarabuzX/XcarabuzX/blob/main/assets/107592844/fcf7a12b-4142-46f2-8373-01992a901184.gif" alt="Programar" width="500" height="300">
+
 
 
 
