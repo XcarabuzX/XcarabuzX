@@ -1,7 +1,9 @@
 <h1 align="center">Hola 👋, soy Felipe Gutiérrez</h1>
 <h3 align="center">Desarrollador full stack</h3>
+![Programar](https://github.com/XcarabuzX/XcarabuzX/blob/main/assets/107592844/fcf7a12b-4142-46f2-8373-01992a901184.gif){:height="300px" width="500px"}
 
-![programar](https://raw.githubusercontent.com/107592844/240392140-3b9476d9-8156-444c-ac0a-0f5241881c90.gif){:height="300px" width="500px"}
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcarabuzx&label=Profile%20views&color=0e75b6&style=flat" alt="xcarabuzx" /> </p>
 
