@@ -9,7 +9,6 @@
 
  - 🔭 Trabajando en proyecto **tic-tac-toe**
  - 🌱 Aprendiendo **React.js y node.js**
- - 📫 Enviame un mail! **fgutierrez161622@gmail.com**
  - 🎧🥁 Hobbys **Apasionado por la musica**
 
  
